@@ -1,2 +1,2 @@
 # sample_proj3
-my name is seunguk oh
+my name is daye shin
